@@ -1,0 +1,6 @@
+[push]
+	default = simple
+[merge]
+	tool = p4merge
+[mergetool]
+	prompt = false
